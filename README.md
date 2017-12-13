@@ -394,6 +394,7 @@ API | Description | Auth | HTTPS | Link |
 | Careerjet | Job search engine | `apiKey` | No | [Go!](https://www.careerjet.com/partners/api/) |
 | Github Jobs | Jobs for software developers | No | Yes | [Go!](https://jobs.github.com/api) |
 | Indeed | Job board aggregator | `apiKey` | Yes | [Go!](https://www.indeed.com/publisher) |
+| Jobers CH | Job search engine | `apiKey` | No | [Go!](https://jobers.ch/free-api-development/) |
 | Jobs2Careers | Job aggregator | `apiKey` | Yes | [Go!](http://api.jobs2careers.com/api/spec.pdf) |
 | Jooble | Job search engine | `apiKey` | Yes | [Go!](https://us.jooble.org/api/about) |
 | Juju | Job search engine | `apiKey` | No | [Go!](http://www.juju.com/publisher/spec/) |
